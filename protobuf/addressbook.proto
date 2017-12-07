@@ -1,0 +1,22 @@
+syntax = "proto3";
+package IstanbulCoders.Meetup.Protobuf;
+message Person 
+{
+    int32 Id = 1;
+    string Name = 2;
+    repeated PhoneNumber Phones = 3;
+}
+message PhoneNumber 
+{
+    string Number = 1;
+    PhoneType Type = 2;
+}
+enum PhoneType 
+{
+    MOBILE = 0;
+    HOME = 1;
+    WORK = 2;
+}
+message AddressBook {
+    repeated Person People = 1;
+}

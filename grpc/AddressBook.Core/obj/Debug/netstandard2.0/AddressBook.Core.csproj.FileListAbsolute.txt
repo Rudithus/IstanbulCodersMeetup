@@ -1,0 +1,8 @@
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\bin\Debug\netstandard2.0\AddressBook.Core.deps.json
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\bin\Debug\netstandard2.0\AddressBook.Core.dll
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\bin\Debug\netstandard2.0\AddressBook.Core.pdb
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\obj\Debug\netstandard2.0\AddressBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\obj\Debug\netstandard2.0\AddressBook.Core.AssemblyInfoInputs.cache
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\obj\Debug\netstandard2.0\AddressBook.Core.AssemblyInfo.cs
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\obj\Debug\netstandard2.0\AddressBook.Core.dll
+C:\Users\Rudithus\source\repos\meetup\grpc\AddressBook.Core\obj\Debug\netstandard2.0\AddressBook.Core.pdb
